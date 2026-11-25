@@ -5,6 +5,8 @@ Kit de segurança digital que roda no navegador.
 
 # Cofre — Calculadora de Bits
 
+![Capa do Cofre](imagens/capa.png)
+
 Bem-vindo ao projeto Cofre!
 
 ## Sobre o projeto
